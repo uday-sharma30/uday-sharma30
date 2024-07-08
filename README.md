@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **udaysharma3021@gmail.com**
 
-- 📄 Resume: [https://drive.google.com/file/d/1tGvRH8ENU-u9QlTbUQQvE-O26HL87-Kg/view?usp=sharing](https://drive.google.com/file/d/1tGvRH8ENU-u9QlTbUQQvE-O26HL87-Kg/view?usp=sharing)
+- 📄 Resume: https://drive.google.com/file/d/1aoaHwdq3wFR48SLpaHCJBAOGLt1KIKou/view?usp=sharing
 
 - ⚡ Fun fact **Love to watch movies.**
 
