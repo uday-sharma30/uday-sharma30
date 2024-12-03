@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Uday Sharma.</h1>
-<h3 align="center">A passionate and detail-oriented Data Analyst from India</h3>
+<h3 align="center">A passionate and detail-oriented Data Engineer/Data Analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **Data Analysis using python.**
+- 🔭 I’m currently working on **Power BI , Azure Data Factory, SQL**
 
-- 🌱 I’m currently learning **Data Science/Data Analysis.**
+- 🌱 I’m currently learning **Azure, Big Data, Data Warehouse, Python**
 
-- 💬 Ask me about **SQL, Python.**
+- 💬 Ask me about **SQL, Power BI.**
 
 - 📫 How to reach me **udaysharma3021@gmail.com**
 
