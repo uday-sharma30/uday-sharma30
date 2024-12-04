@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Power BI , Azure Data Factory & SQL.**
 
-- 🌱 I’m currently learning **Azure, Big Data, Data Warehouse & Python.**
+- 🌱 I’m currently learning **Azure, Big Data & Python.**
 
 - 💬 Ask me about **SQL & Power BI.**
 
 - 📫 How to reach me **udaysharma3021@gmail.com**
 
-- 📄 Resume: https://drive.google.com/file/d/1aoaHwdq3wFR48SLpaHCJBAOGLt1KIKou/view?usp=sharing
+- 📄 Resume: https://drive.google.com/file/d/1K5NBlIk1DWoaNeEKZP7JMpZHp9jbY3xt/view?usp=drive_link
 
 - ⚡ Fun fact **Love to watch movies.**
 
